@@ -1,0 +1,15 @@
+/Users/vado/Desktop/Examples /Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole
+/Users/vado/Desktop/Examples /Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.deps.json
+/Users/vado/Desktop/Examples /Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.runtimeconfig.json
+/Users/vado/Desktop/Examples /Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.dll
+/Users/vado/Desktop/Examples /Example001_HelloConsole/bin/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.dll
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/refint/Example001_HelloConsole.dll
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.pdb
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.genruntimeconfig.cache
+/Users/vado/Desktop/Examples /Example001_HelloConsole/obj/Debug/net7.0/ref/Example001_HelloConsole.dll
