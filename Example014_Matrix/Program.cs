@@ -1,8 +1,8 @@
 ﻿// Создаем функцию двумерного массива
 
-int [,] matrix = new int [3,3];
+double [,] matrix = new double [3,3];
 
-void PrintArray (int [,] matrix)
+void PrintArray (double [,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
@@ -15,7 +15,7 @@ void PrintArray (int [,] matrix)
 }
 
 // Заполняем нашу функцию случайными числами
-void FillArray (int [,] matrix)
+void FillArray (double [,] matrix)
 {
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
@@ -25,6 +25,22 @@ void FillArray (int [,] matrix)
         }
     }
 }
-
+// Проходимся по каждому элементу массива и нечетные числа возводим в степень
+void CheckArray (double [,] matrix)
+{
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            if (matrix[i, j] % 2 != 0)
+            {
+                matrix[i, j] = Math.Pow((matrix[i, j]), 2);
+            }
+        }
+    }
+}
 FillArray(matrix);
+PrintArray(matrix);
+Console.WriteLine();
+CheckArray(matrix);
 PrintArray(matrix);
